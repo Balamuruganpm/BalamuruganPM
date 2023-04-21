@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hai!
 
-<!--
-**Balamuruganpm/BalamuruganPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`MY SELF` > Balamurugan P M**
 
-Here are some ideas to get you started:
+**`ABOUT ME` > studing BE.CSE**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`SKILLS` > Website Dev(HTML & CSS)**
+
+**`PROGRAMMING LANGUAGE` > Python**
+
+**`WORKING` > Studying BE**
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1"/>
+
+
+## SOCIAL LINK
+
+[Instagram](https://instagram.com/balaselfie_bd)
+
+[LinkedIn](https://www.linkedin.com/in/balamurugan-p-m)
+
+[Whatsapp](https://wa.me/+919677804820)
+
+[Email](mailto:balamuruganedsty@gmail.com)
+
+# Language Used In Source Codes
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamuruganpm&hide=html&layout=compact=true&theme=default)](https://github.com/Balamuruganpm/Balamuruganpm)
