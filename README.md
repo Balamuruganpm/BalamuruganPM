@@ -15,16 +15,18 @@
 
 ## SOCIAL LINK
 
-[Instagram](https://instagram.com/balaselfie_bd)
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"/>[Instagram](https://instagram.com/balaselfie_bd)
 
-[LinkedIn](https://www.linkedin.com/in/balamurugan-p-m)
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>[LinkedIn](https://www.linkedin.com/in/balamurugan-p-m)
 
-[Whatsapp](https://wa.me/+919677804820)
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"/>[Whatsapp](https://wa.me/+919677804820)
 
-[Email](mailto:balamuruganedsty@gmail.com)
+<img align="left" width="30" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>[Email](mailto:balamuruganedsty@gmail.com)
 
 # Language Used In Source Codes
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Balamuruganpm&layout=compact=true&theme=default)](https://github.com/Balamuruganpm/Balamuruganpm)
 
 <img align="right" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
