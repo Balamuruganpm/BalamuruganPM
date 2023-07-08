@@ -27,12 +27,15 @@
 <img width="300" align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # Language Used In Source Codes
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balamuruganpm&layout=compact)
+
 ## Profile views counter 
+
 ![Visitor Count](https://profile-counter.glitch.me/balamuruganpm/count.svg)
 
  ## 📈 My Github Stats!
 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=balamuruganpm)](https://git.io/streak-stats)
 
-
- 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=balamuruganpm&margin-w=15)](https://github.com/balamuruganpm/github-profile-trophy)
